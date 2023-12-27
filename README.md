@@ -1,4 +1,4 @@
-<img align="right" height="150" src="https://www.icegif.com/wp-content/uploads/2022/09/icegif-940.gif"  />
+<img align="right" height="150" src="https://wikizilla.org/w/images/d/df/GvK_-_Godzilla_shoots_a_hole_into_the_surface_of_Earth.gif"  />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fukuroxp&show_icons=true&theme=radical" height="150">
