@@ -1,5 +1,7 @@
 <img align="center" height="150" src="https://i.pinimg.com/originals/c3/14/b6/c314b65229e09ab929fa5002914b6876.gif"  />
 
+<br>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fukuroxp&show_icons=true&theme=radical" height="150">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical" height="150">
