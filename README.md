@@ -1,5 +1,7 @@
-<img src="https://github-readme-stats.vercel.app/api?username=fukuroxp&show_icons=true&theme=radical">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fukuroxp&show_icons=true&theme=radical" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical" height="150">
+</div>
 <!--
 **fukuroxp/fukuroxp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
