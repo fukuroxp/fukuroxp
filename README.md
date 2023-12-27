@@ -1,4 +1,4 @@
-<img align="center" height="251" src="https://wikizilla.org/w/images/d/df/GvK_-_Godzilla_shoots_a_hole_into_the_surface_of_Earth.gif" />
+<img align="center" height="251" src="https://tenor.com/view/godzilla-kong-king-kong-godzilla-vs-kong-gif-20969165" />
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fukuroxp&show_icons=true&theme=radical" height="150">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical" height="150">
