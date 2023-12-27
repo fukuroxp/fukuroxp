@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="![image](https://github.com/fukuroxp/fukuroxp/assets/45877867/cc53a20b-64b1-49d9-8fb5-7984e43b4eda)">
+<img align="right" alt="Coding" width="400" src="https://wikizilla.org/w/images/d/df/GvK_-_Godzilla_shoots_a_hole_into_the_surface_of_Earth.gif">
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fukuroxp&show_icons=true&theme=radical" height="150">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical" height="150">
